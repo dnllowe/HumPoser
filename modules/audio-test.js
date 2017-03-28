@@ -1,0 +1,7 @@
+// NEED AN AUDIO BUFFER
+// THIS WILL BE A SOUND FILE EVENTUALLY
+// BUT FOR NOW, HARD CODE IT
+
+// const AUDIO = 
+
+// module.exports = audio;

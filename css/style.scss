@@ -1,0 +1,32 @@
+*{ box-sizing: border-box; 
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+button {
+  color: white;
+  background-color: rgba(150,150,150, 0.75);
+  border-radius: 5px;
+  border: none;
+  font-size: 2em;
+  padding: 20px;
+  min-width: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  &:hover {
+    background-color: rgba(255, 150, 150, .90);
+  }
+}
+
+body {
+  background-image: url('../humposer-title-img-cropped.jpg');
+  background-size: 100%;
+  background-position-y: top;
+  background-repeat: no-repeat;
+  background-color: black;
+  color: white;
+}
+
+.selected {
+  background-color: rgba(255, 50, 50, 1);
+  &:hover {
+    background-color: rgba(255, 50, 50, 1);
+  }
+}
